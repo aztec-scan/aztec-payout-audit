@@ -1,0 +1,22 @@
+# Public Aztecscan mainnet payout config.
+# Add your own archival Ethereum mainnet rpcUrl before re-running.
+
+multicallAddress: "0xcA11bde05977b3631167028862bE2a173976CA11"
+logChunkSize: "10000"
+stakeLogChunkSize: "10000"
+rpcMaxRequestsPerSecond: 50
+dustThreshold: "1"
+attributionMode: "proposals"
+runsDir: "./runs"
+stakingRegistryDeployedAtBlock: "23786843"
+rollupDeployedAtBlock: "24586322"
+
+tokenAddress: "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2"
+stakingRegistryAddress: "0x042dF8f42790d6943F41C25C2132400fd727f452"
+rollupAddress: "0xAe2001f7e21d5EcABf6234E9FDd1E76F50F74962"
+
+providerId: "4"
+distributionWalletAddress: "0x90e7b822a5Ac10edC381aBc03d94b866e4B985A1"
+commissionBps: 2500
+
+# rpcUrl: "https://your-archival-ethereum-mainnet-rpc.example"
