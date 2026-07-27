@@ -9,11 +9,10 @@ dustThreshold: "1"
 attributionMode: "proposals"
 runsDir: "./runs"
 stakingRegistryDeployedAtBlock: "23786843"
-rollupDeployedAtBlock: "24586322"
 
 tokenAddress: "0xA27EC0006e59f245217Ff08CD52A7E8b169E62D2"
 stakingRegistryAddress: "0x042dF8f42790d6943F41C25C2132400fd727f452"
-rollupAddress: "0xAe2001f7e21d5EcABf6234E9FDd1E76F50F74962"
+rollupAddress: "0x91ff8bbd8ebb07893010d50a48a1609e5ebd8e34"
 
 providerId: "4"
 distributionWalletAddress: "0x90e7b822a5Ac10edC381aBc03d94b866e4B985A1"
